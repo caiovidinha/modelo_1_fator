@@ -1,0 +1,750 @@
+Ticker,Company Name
+ABCB4,ABC BRASIL PN
+AGRO3,BRASILAGRO ON
+RAIL3,RUMO ON NM
+ALPA3,ALPARGATAS ON
+ALPA4,ALPARGATAS PN
+ALSO3,Aliansce Sonae
+AMAR3,LOJAS MARISA ON
+ABEV3,AMBEV S/A ON
+ADHM3,Advanced Digital Health
+ARZZ3,AREZZO CO ON
+BBAS3,BRASIL ON
+BBDC3,BRADESCO ON
+BBDC4,BRADESCO PN EJ N1
+BBRK3,BR BROKERS ON
+BEEF3,MINERVA ON
+BPHA3,BR PHARMA ON
+BPAN4,BANCO PAN SA PN
+BRAP3,BRADESPAR ON
+BRAP4,BRADESPAR PN
+BRFS3,BRF SA ON
+APER3,BR Insurance Corretora
+BRKM3,BRASKEM ON
+BRKM5,BRASKEM PNA
+BRML3,BR MALLS PAR ON
+BRPR3,BR PROPERT ON
+BRSR6,BANRISUL PNB
+OIBR3,OI ON N1
+OIBR4,OI PN
+BTOW3,B2W DIGITAL ON
+B3SA3,B3 SA Brasil Bolsa Balcao
+CAMB4,CAMBUCI PN
+CARD3,CSU CARDSYST ON
+CCPR3,CYRE COM-CCP ON
+CCRO3,CCR SA ON
+CEDO4,CEDRO PN
+CEED3,CEEE-D ON
+CESP6,CESP PNB
+CGAS5,COMGAS PNA
+CGRA4,GRAZZIOTIN PN
+CIEL3,CIELO ON
+CMIG3,CEMIG ON
+CMIG4,CEMIG PN
+COCE5,COELCE PNA
+CPFE3,CPFL ENERGIAON NM
+CPLE3,COPEL ON
+CPLE6,COPEL PNB
+CRDE3,CR2 ON
+CSAN3,COSAN ON
+CSMG3,COPASA ON
+CSNA3,SID NACIONAL ON
+LIQO3,Contax Participacoes
+CTNM4,COTEMINAS PN
+CYRE3,CYRELA REALT ON
+DASA3,DASA ON
+DIRR3,DIRECIONAL ON
+DTEX3,DURATEX ON
+ECOR3,ECORODOVIAS ON
+EEEL3,CEEE-GT ON
+ELEK4,ELEKEIROZ PN
+ELET3,ELETROBRAS ON
+ELET6,ELETROBRAS PNB
+EMBR3,EMBRAER ON
+ENBR3,ENERGIAS BR ON
+ENGI4,ENERGISA PN
+EQTL3,EQUATORIAL ON
+YDUQ3,YDUQS Part ON
+ETER3,ETERNIT ON
+EUCA4,EUCATEX PN
+EVEN3,EVEN ON
+EZTC3,EZTEC ON
+FESA4,FERBASA PN
+FHER3,FER HERINGER ON
+TASA4,Taurus Armas PN
+FLRY3,FLEURY ON
+FRIO3,METALFRIO ON
+TIET3,AES TIETE E ON N2
+TIET4,AES TIETE E PN N2
+GFSA3,GAFISA ON
+GGBR3,GERDAU ON
+GGBR4,GERDAU PN N1
+GOAU3,GERDAU MET ON
+GOAU4,GERDAU MET PN
+GOLL4,GOL PN N2
+GRND3,GRENDENE ON
+GSHP3,GENERALSHOPP ON
+HBOR3,HELBOR ON
+HGTX3,CIA HERING ON
+PRIO3,PETRORIO ON NM
+HYPE3,HYPERMARCAS ON
+IDNT3,IDEIASNET ON
+IDVL4,INDUSVAL PN
+IGTA3,IGUATEMI ON
+MEAL3,International Meal Company
+INEP3,INEPAR ON
+INEP4,INEPAR PN
+ITSA3,ITAUSA ON
+ITSA4,ITAUSA PN
+ITUB3,ITAUUNIBANCO ON
+ITUB4,ITAUUNIBANCOPN EB N1
+JBSS3,JBS ON
+JFEN3,JOAO FORTES ON
+JHSF3,JHSF PART ON
+JSLG3,JSL ON
+KEPL3,KEPLER WEBER ON
+KLBN4,KLABIN S/A PN
+LAME3,LOJAS AMERIC ON
+LAME4,LOJAS AMERIC PN
+LEVE3,METAL LEVE ON
+LIGT3,LIGHT S/A ON
+LLIS3,LE LIS BLANC ON
+LOGN3,LOG-IN ON
+LPSB3,LOPES BRASIL ON
+LREN3,LOJAS RENNER ON
+LUPA3,LUPATECH ON
+MDIA3,M.DIASBRANCO ON
+MGEL4,MANGELS INDL PN
+MGLU3,MAGAZ LUIZA ON
+MILS3,MILLS ON
+MMXM3,MMX MINER ON
+ENEV3,ENEVA ON NM
+MRFG3,MARFRIG ON
+MRVE3,MRV ON
+MTIG4,METAL IGUACU PN
+MULT3,MULTIPLAN ON
+MYPK3,IOCHP-MAXION ON
+NATU3,NATURA ON
+ODPV3,ODONTOPREV ON
+OSXB3,OSX BRASIL ON
+PCAR4,P.ACUCAR-CBD PN
+PDGR3,PDG REALT ON
+PETR3,PETROBRAS ON
+PETR4,PETROBRAS PN
+PFRM3,PROFARMA ON
+PINE4,PINE PN
+PLAS3,PLASCAR PART ON
+PMAM3,PARANAPANEMA ON
+POMO3,MARCOPOLO ON
+POMO4,MARCOPOLO PN
+POSI3,POSITIVO INF ON
+PSSA3,PORTO SEGURO ON
+PTBL3,PORTOBELLO ON
+PTNT4,PETTENATI PN
+ENAT3,Enauta ON
+QUAL3,QUALICORP ON
+RAPT3,RANDON PART ON
+RAPT4,RANDON PART PN
+RDNI3,RODOBENSIMOB ON
+RENT3,LOCALIZA ON
+FRTA3,Pomifrutas
+RNEW11,RENOVA UNT
+ROMI3,INDS ROMI ON
+RSID3,ROSSI RESID ON
+SANB11,SANTANDER BR UNT
+SBSP3,SABESP ON
+SCAR3,SAO CARLOS ON
+SGPS3,SPRINGS ON
+SHOW3,TIME FOR FUN ON
+SLCE3,SLC AGRICOLA ON
+SLED4,SARAIVA LIVR PN
+SMTO3,SAO MARTINHO ON
+SULA11,SUL AMERICA UNT
+EGIE3,ENGIE BRASILON NM
+TCSA3,TECNISA ON
+TECN3,TECHNOS ON
+TEKA4,TEKA PN
+TGMA3,TEGMA ON
+TIMP3,TIM PART S/A ON
+TOTS3,TOTVS ON
+TPIS3,TRIUNFO PART ON
+TRIS3,TRISUL ON
+TAEE11,TAESA UNT
+TRPL4,TRAN PAULIST PN
+TRPN3,TARPON INV ON
+UGPA3,ULTRAPAR ON NM
+UNIP3,UNIPAR ON
+UNIP6,UNIPAR PNB
+USIM3,USIMINAS ON
+USIM5,USIMINAS PNA
+TESA3,TERRA SANTA ON
+VALE3,VALE ON
+VIVR3,VIVER ON
+VIVT3,TELEF BRASIL ON
+VIVT4,TELEF BRASIL PN
+VLID3,VALID ON
+WEGE3,WEG ON
+BRSR5,BANRISUL PNA
+CESP5,CESP PNA
+ELPL3,ELETROPAULO ON
+SANB4,SANTANDER BRPN
+STBP3,Santos Brasil Participacoes
+CCXC3,CCX CARVAO ON
+CESP3,CESP ON
+CGRA3,GRAZZIOTIN ON
+CLSC4,CELESC PN
+COCE3,COELCE ON
+TASA3,Taurus Armas ON
+COGN3,Cogna Educacao
+LCAM3,LOCAMERICA ON NM
+RADL3,RAIADROGASIL ON
+UCAS3,UNICASA ON
+ALUP11,Alupar Invest Unit
+ANIM3,Anima ON
+BBSE3,BBSEGURIDADE ON NM
+BSEV3,Biosev ON
+CPRE3,CPFL RENOVAVON NM
+CVCB3,CVC BRASIL ON NM
+LINX3,LINX ON NM
+SEER3,Ser Educa ON
+SMLS3,Smiles Fidelidade
+TUPY3,Tupy ON
+SQIA3,Senior Solution
+BIOM3,Biomm On
+KLBN11,KLABIN S/A UNT N2
+NUTR3,Nutriplant
+BAZA3,Banco da Amazonia SA ON
+HGBS11,CSHG Brasil Shopping
+HGPO11,CSHG JHSF Prime Offices
+MBRF11,Mercantil do Brasil
+TCNO3,Tecnosolo Engenharia SA ON
+ABCP11,FII ABC IMOB
+RBED11,Fdo Inv Imob Rio Bravo Renda Educacional
+BBPO11,FII BB PRGII
+BBRC11,FII BB CORP
+BBVJ11,FII C JARDIM
+BPFF11,FII ABSOLUTO
+BRCR11,FII BC FUND
+CTXT11,FII C TEXTIL
+CXTL11,FII CX TRX
+EURO11,FII EUROPAR
+RCRB11,FII Rio Bravo Renda Corporativa
+FIGS11,FII GEN SHOP
+FIXX11,FII FATORFIX
+FLMA11,FII S F LIMA
+FPAB11,FII A BRANCA
+HMOC11,FII GWI RI
+HGCR11,FII CSHG CRI
+HGLG11,FII CSHG LOG
+HGRE11,FII HG REAL
+JSRE11,FII JS REAL
+KNCR11,FII KINEA RI
+KNRE11,FII KII REAL
+KNRI11,FII KINEA
+MXRF11,FII MAXI REN
+ONEF11,FII THE ONE
+PQDP11,FII D PEDRO
+PRSV11,FII P VARGAS
+RBBV11,FII JHSF FBV
+RBCB11,FII RIOBRCIB
+RBGS11,FII RB GSB I
+RBRD11,FII RB II
+RBVO11,FII RIOBCRI2
+RDES11,FII RD ESCRI
+RNDP11,FII BB R PAP
+RNGO11,FII RIONEGRO
+SAAG11,FII SANT AGE
+SDIL11,FII SDI LOG
+SHPH11,FII HIGIENOP
+SPTW11,FII SP DOWNT
+TBOF11,FII TBOFFICE
+TRXL11,FII TRX LOG
+VLOL11,FII OLIMPIA
+VRTA11,FII FATOR VE
+XPCM11,FII XP MACAE
+XTED11,FII TRXE COR
+SANB3,SANTANDER BRON
+SEDU3,SOMOS EDU S/A ON
+FRAS3,Fras Le SA
+GEPA4,Duke Energy Intl Geracao Para
+OFSA3,Ouro Fino Saude Animal Particip
+RLOG3,Cosan Logistica SA
+TOYB3,Tec Toy SA
+AAPL34,Apple Inc BDR
+ABTT34,Abbott Laboratories BDR
+AMGN34,Amgen Inc BDR
+AMZO34,Amazon.com Inc BDR
+ARMT34,ArcelorMittal BDR
+ATTB34,ATT Inc BDR
+AXPB34,American Express Co BDR
+BERK34,Berkshire Hathaway BDR
+BOAC34,Bank of America Corp BDR
+CATP34,Caterpillar Inc BDR
+CMCS34,Comcast Corp BDR
+COCA34,The Coca Cola Co BDR
+CSCO34,Cisco Systems Inc BDR
+DISB34,Walt Disney Co BDR
+EXXO34,Exxon Mobil Corp BDR
+FDMO34,Ford Motor Co BDR
+GEOO34,General Electric Co BDR
+GSGI34,Goldman Sachs Group BDR
+HALI34,Halliburton Co BDR
+HOME34,Home Depot Inc BDR
+HPQB34,Hewlett Packard Co BDR
+ITLC34,Intel Corp BDR
+JNJB34,Johnson Johnson BDR
+JPMC34,JPMorgan Chase Co BDR
+LMTB34,Lockheed Martin Corp BDR
+MMMC34,3M Co BDR
+MRCK34,Merck Co Inc BDR
+MSCD34,MasterCard Inc BDR
+MSFT34,Microsoft Corp BDR
+NIKE34,Nike Inc BDR
+ORCL34,Oracle Corp BDR
+PFIZ34,Pfizer Inc BDR
+PGCO34,Procter Gamble Co BDR
+SBUB34,Starbucks Corp BDR
+VERZ34,Verizon Communications BDR
+VISA34,Visa Inc BDR
+WALM34,Wal Mart Stores Inc BDR
+WFCO34,Wells Fargo Co BDR
+WIZS3,FPC Par Corretora De Seguros
+BOEI34,Boeing Co BDR
+CHVX34,Chevron Corp BDR
+COPH34,ConocoPhillips DRC
+CTGP34,Citigroup Inc BDR
+FBOK34,Facebook Inc BDR
+IBMB34,International Business Machines BDR
+LILY34,Eli Lilly and Co BDR
+MCDC34,McDonalds Corp BDR
+MFII11,Fundo Investimento Imobil Merito
+MSBR34,Morgan Stanley Bank AG
+NFLX34,Netflix Inc DRC
+PEPB34,PepsiCo Inc BDR
+SLBG34,Schlumberger AG
+UPSS34,United Parcel Service Inc
+USBC34,U.S. Bancorp DRC
+GUAR3,Guararapes Confeccoes ON
+ACNB34,Accenture PLC BDR
+BONY34,Bank of New York Mellon Corp BDR
+DHER34,Danaher Corp BDR
+IGBR3,Gradiente Electronica SA
+KMBB34,Kimberly Clark Corp BDR
+METB34,Metlife Inc BDR
+TELB4,Telecomunicacoes Brasileira SA Pref
+TGTB34,Target Corp BDR
+WHRL3,Whirlpool SA
+AVON34,Avon Products Inc BDR
+BMYB34,Bristol Myers Squibb Company BDR
+COLG34,Colgate Palmolive Co BDR
+COTY34,Coty Inc BDR
+EBAY34,eBay Inc BDR
+FCXO34,Freeport Mcmoran Copper Gold Inc
+FDXB34,FedEx Corp BDR
+GDBR34,General Dynamics Corp BDR
+HSHY34,The Hershey Company BDR
+MDLZ34,Mondelez International Inc BDR
+MOSC34,The Mosaic Company BDR
+QCOM34,Qualcomm Inc BDR
+TEXA34,Texas Instruments Inc BDR
+TIFF34,Tiffany Co BDR
+UTEC34,United Technologies Corp BDR
+WUNI34,The Western Union Company BDR
+XRXB34,Xerox Corp BDR
+SHUL4,Schulz SA
+ATOM3,Atom Participacoes
+KHCB34,Kraft Heinz DRC
+TIET11,AES TIETE E UNT N2
+SAPR4,Companhia de Saneamento
+CRIV4,Financeira Alfa
+RPMG3,Refinaria de Petroleos
+BRSR3,BANRISUL ON N1
+DOMC11,FII Domo
+ENGI11,Energisa
+SNSY5,Sansuy
+DMMO3,Ogx Petroleo e Gas
+ABCB10,BancoC Brasil
+ANIM3T,GAEC Educacao
+AZEV4,Azevedo & Travassos Pref
+BAHI3,Bahema
+BALM4,Baumer Pref
+BAUH4,Excelsior Alimentos Pref
+BDLL4,Bardella Pref
+BEES3,Banestes
+BEES4,Banestes Pref
+BGIP4,Banese Pref
+BMEB3,Mercantil do Brasil
+BMEB4,Mercantil do Brasil Pref
+BMIN3,Mercantil de Investimentos
+BMIN4,Mercantil de Investimentos Pref
+BMKS3,Bicicletas Monark
+BNBR3,BNB
+BOBR4,Bombril
+BRIV3,Banco Alfa
+BRIV4,Banco Alfa Pref
+BSLI4,BRB Pref
+BTTL3,Battistella Administracao
+CBEE3,Ampla
+CEEB3,Coelba
+CEEB5,Coelba Pref
+CELP3,CELPA
+CELP5,CELPA Pref
+CEPE5,Celpe Pref
+CGAS3,Comgas
+CPRE3T,CPFL Renovaveis
+CRIV3,Financeira Alfa ORD
+CRPG5,Cristal Pigmentos do Brasil Pref A
+CRPG6,Cristal Pigmentos do Brasil Pref B
+CSRN3,Cosern
+CTKA4,Karsten Pref
+CTNM3,COTEMINAS
+CTSA3,Santanense
+CTSA4,Santanense Pref
+CVCB3T,CVC Viagens
+DOHL4,Dohler Pref
+DTCY3,Dtcom
+EALT4,Electro Aco Altona Pref
+EKTR4,Elektro Pref
+ELEK3,Elekeiroz
+EMAE4,EMAE Pref
+ENGI3,Energisa ORD
+ENMT3,Energisa MT
+ESTR4,Brinquedos Estrela
+FESA3,Ferbasa
+FNAM11,Fundo de Investimento da Amazonia
+FSRF11,Fdo Inv Setorial FL E Ref Fiset FL Ref
+GPCP3,GPC Participacoes
+HAGA4,Haga Pref
+HBTS5,Habitasul Pref
+HETA4,Hercules Pref
+HOOT4,Hoteis Othon
+IDVL3,BI&P
+JBDU3,Industrias JBDuarte
+JBDU4,Industrias JBDuarte Pref
+JOPA3,Josapar Joaquim Oliveira
+JOPA4,Josapar Joaquim Oliveira Pref
+KLBN3,KLABIN S/A ON N2
+MEND5,Mendes Junior Engenharia
+MNDL3,Mundial
+MNPR3,Minupar Participacoes
+MTSA4,METISA Pref
+MWET4,Wetzel Pref
+DMMO3T,Ogx Petroleo e Gas
+PEAB4,Alianca da Bahia Pref
+PNVL3,Dimed
+PNVL4,Dimed Pref
+RANI3,Celulose Irani
+RANI4,Celulose Irani Pref
+RCSL3,Recrusul
+RCSL4,Recrusul Pref
+REDE3,Rede Energia
+RPAD5,Alfa Holdings Pref A
+RPAD6,Alfa Holdings Pref B
+SEER3T,Ser Educacional
+WLMM3,WLM Industria e Comercio
+WLMM4,WLM Industria e Comercio
+SLED3,Saraiva
+SMLS3T,Smiles Fidelidade
+SOND5,Sondotecnica Pref A
+SOND6,Sondotecnica Pref B
+SPRI3,Springer
+TCNO4,Tecnosolo Pref
+TELB3,Telebras
+TOYB4,Tec Toy Pref
+TRPL3,CTEEP
+UNIP5,Unipar Carbocloro Pref
+USIM6,USIMINAS PNB
+VULC3,Vulcabras Azaleia
+VVAR3,Via Varejo
+WHRL4,Whirlpool Pref
+ALMI11,FII Torre Almirante
+ANCR11B,FII Ancar IC
+ATSA11B,FII Atrium Shopping Santo Andre
+BBFI11B,Progressivo
+BCFF11,BB Renda Corporativa
+BMLC11B,BM Brascan Lajes Corp
+CEOC11,FII Ceo Cyrela Commercial
+CNES11,FII Cenesp
+MRSA6BF,MRS Logistica B
+CPTS11B,FII Capitania Securities II
+CXCE11B,FII CAIXA CEDAE
+DRIT11B,Multigestao Renda Comercial
+EDFO11B,Edificio Ourinvest
+EDGA11,FII Edificio Galeria
+ENMA3B,CEMAR
+FAED11,FII Anhanguera Educacional
+FAMB11B,FII Edificio Almirante Barroso
+FCFL11,Campus Faria Lima FII
+FEXC11,FII Excellence
+FIIP11B,RB Capital
+FLRP11,Floripa Shopping FII
+FVBI11,VBI FL 4440 FII
+HCRI11,FII Hospital da Crianca
+HTMX11,FII Hotel Maxinvest
+JRDM11,FII BM Jardim Sul
+MAXR11,Max Retail FII
+NSLU11,FII Nossa Senhora De Lourdes
+TRNT11,FII Torre Norte
+WPLZ11B,Fundo Inves
+ARNC34,Arconic BDR
+ABBV34,AbbVie DRC
+BBYY34,Best Buy
+BCRI11,Banestes Recebiveis FII
+BIIB34,Biogen DRC
+BLAK34,BlackRock DRC
+CHKE34,Chesapeake Energy
+COWC34,Costco Wholesale DRC
+CTSH34,Cognizant Tech DRC
+CVSH34,CVS Health DRC
+CXRI11,FII Caixa Rio Bravo
+DEAI34,Delta Air Lines
+FSLR34,First Solar Inc
+GILD34,Gilead Sciences DRC
+GOGL34,Alphabet A BDR
+GOGL35,Alphabet C BDR
+GPSI34,Gap
+JCPC34,J C Penney
+MACY34,Macy’s
+MDTC34,Medtronic DRC
+RIGG34,Transocean
+ROST34,Ross Stores DRC
+SANC34,Sanchez Energy
+SCHW34,Charles Schwab
+SPRN34,Sprint DRC
+SSFO34,Salesforce.com DRC
+TMOS34,Thermo Fisher Scientific
+TRVC34,Travelers Companies DRC
+USSX34,United States Steel
+VLOE34,Valero Energy DRC
+WSON33,Wilson Sons
+AALR3,Centro de Imagem Diagnosticos
+AFLT3,Afluente Transmissao de Energia
+BGIP3,Banco do Estado de Sergipe
+BNFS11,FII Banrisul Novas Fronteiras
+CBOP11,FII Castello Branco Office
+CEBR3,CEB
+CEDO3,Cedro Cachoeira
+ESUD11,FIP Infra-Estr BB Votorantim Ener Sustentavel II A
+ESUT11,FIP Infra-Estr BB Votorantim Ener Sustentavel III
+FIIB11,FII Industrial do Brasil
+FIVN11,FII Vida Nova
+FMOF11,FII Memorial Office
+FNOR11,FINOR
+FSPE11,FI Setoriais Fiset Pesca
+FSTU11,Fuente Internacional de Servicios para Turistas
+GPAR3,Celgpar
+GRLV11,CSHG GR Louveira FII
+MAPT3,Cemepe Investimentos
+MMXM11,MMX Mineracao e Metalicos
+PABY11,FII Panamby
+PATI4,Panatlantica
+PLRI11,Polo FII Recebiveis Imobiliarios I
+PORD11,Polo FII Recebiveis Imobiliarios II
+RBDS11,FII RB Capital Desenvolvimento Residencial II
+RPAD3,Alfa Holdings
+SCPF11,SCP FII
+VSPT3,Ferrovia Centro Atlantica
+XPOM11,FIP XP Omega I
+POMO10,Marcopolo
+AIGB34,AIG BDR
+DUKB34,Duke Energy
+MOVI3,Movida Participacoes
+PARD3,Instituto Hermes Pardini
+BPAC11,Banco BTG
+PPLA11,BTG Pactual Unit
+AALL34,American Airlines DRC
+GMCO34,General Motors
+LBRN34,L Brands DRC
+TWTR34,Twitter
+UPAC34,Union Pacific
+RNEW3,Renova Energia
+RNEW4,Renova Energia Pref
+AZUL4,Azul SA Pref
+KNIP11,Kinea Private Equity
+TEND3,Tenda
+TSLA34,Tesla Motors DRC
+CRFB3,Atacadao
+GBIO33,Biotoscana Invest
+OMGE3,Omega Geracao
+IRBR3,IRB Brasil Resseguros
+GGRC11,GGR Covepi Renda FII
+GEPA3,Rio Paranapanema Energia
+SAPR3,SANEPAR ON N2
+CAML3,Camil Alimentos
+VISC11,Vinci Shopping Centers FII
+SUZB3,Suzano Papel Celulose
+SAPR11,Parana Sanepar Unit
+BRDT3,Petrobras Distribuidora
+NEOE3,NEOENERGIA
+BKBR3,BK BRASIL OPERACAO
+FMXB34,Fomento Economico Mexicano DRC
+CLGN34,Celgene DRC
+HONB34,Honeywell DRC
+ALZR11,Alianza Trust Renda Imobiliaria
+GFSA1,Gafisa
+DDNB34,DuPont Nemours
+UBSG34,UBS BDR
+TXRX4,Textil Renauxview Pref
+OUJP11,Ourinvest JPP FII
+BCIA11,Bradesco Carteira Ativa FII
+BOXP34,Boston Properties DRC
+GPRO34,GoPro BDR
+MSPA3,Companhia Melhoramentos
+HFOF11,Hedge Top Fofii 3 FII
+RBRF11,FII RBR ALPHA Fundo
+HAPV3,Hapvida
+GNDI3,Notre Dame
+BIDI4,Banco Inter PN
+JPSA3,Jereissati Participacoes
+GPIV33,GP Invest DRC A
+IRDM11,IRIDIUM RECEBÍVEIS IMOBILIÁRIOS
+FOFT11,CSHG TOP FOFII 2
+THRA11,FII CYRELA THERA CORPORATE
+TAEE4,TAEE Pref
+BIDI4T,Banco Inter PN Termo
+XPLG11,XP LOG FII
+RBRR11,FII RBR Rendimento High Grade
+WPLZ11,Fundo Inves
+MGFF11,FII Mogno Fundo De Fundos
+TGAR11,FII TG Ativo Real
+HGRU11,CSHG RENDA URBANA FII
+ALUP3,Alupar Invest
+ALUP4,Alupar Invest Pref
+LOGG3,Log Commercial Properties
+KNHY11,KINEA HIGH YIELD CRI FII
+OUCY11,OURINVESTY CYRELA FII
+FVPQ11,FII VIA PARQUE SHOPPING
+TASA13,Taurus Armas Right Series B
+TASA15,Taurus Armas Right Series C
+TASA17,Taurus Armas Right Series D
+CARE11,Brazilian Graveyard and Death Care Services FII
+TAEE3,TAEE 3
+XPIN11,FII XP Industrial
+VSHO11,FI Imobiliario Votorantim Shopping
+DMMO11,Dommo Energia
+AZEV3,Azevedo Travassos
+AHEB3,Sao Paulo Turismo
+BALM3,Baumer
+BPAC3,Banco BTG Pactual
+EALT3,Electro Aco Altona
+ECPR3,Encorpar
+HAGA3,Haga Industria Comercio
+ITEC3,Itautec
+LIPR3,Eletrobras Eletropar
+PATI3,Panatlantica
+PEAB3,Alianca Bahia
+SULA3,Sul America Pref
+BPAC5,Banco BTG Pactual Pref
+BRGE11,Alfa Administracao Pref E
+BRGE12,Alfa Administracao Pref F
+BRGE6,Alfa Administracao Pref
+CELP6,Eletricas Para CELPA Pref B
+CELP7,Eletricas Para CELPA Pref  C
+CORR4,Correa Ribeiro
+EEEL4,Estadual Geracao Transmissao
+ENMT4,Energisa Mato Grosso
+LUXM4,Trevisa Invest
+MEND6,Mendes Junior
+MERC4,Mercantil Brasil Financeira
+RSUL4,Metalurgica Riosulense
+SULA4,Sul America
+BEEF11,Minerva
+JBDU1,Industrias JB Duarte Right 1
+JBDU2,Industrias JB Duarte Right 2
+LOGN12,Log-in Logistica Right
+MYPK12,Iochpe Maxion Right 12
+PATC11,PATRIA EDIFICIOS CORPORATIVOS FII
+BBDC3,BRADESCO ON
+VGIR11,VALORA RE III FII
+VILG11,VINCI LOGISTICA FII
+CNTO3,Grupo SBF
+BTCR11,FII BTG PACTUAL CREDITO IMOBILIARIO
+VAMO3,Grupo Vamos
+CAMB10,Cambuci Pref
+IDVL9,Banco Indusval
+MELI34,Mercadolibre BDR
+MOAR3,Monteiro Aranha
+RBVA11,FII Rio Bravo Rendo Varejo
+MRSA3B,MRS Logistica
+VTLT11,FI Imobiliario Votorantim Logistica
+GTWR11,FII Green Towers
+BIDI11,Banco Inter Unit
+BIDI3,Banco Inter ON
+DMAC11,MAC Fundo de Investimento Imobiliario
+TFOF11,Hedge Top FOFII
+HCTR11,Hectare Ce Fdo Inv Imob
+TIET2,Aes Tiete Energia Pref Rights
+HSML11,HSI Malls FII
+XPHT11,XP HOTEIS FDO INV IMOB
+XPHT12,XP HOTEIS FII
+HABT11,FII HABIT II
+RECT11,FII UBS (BR) OFFICE
+AQLL11,Áquilla
+ARFI11B,Áquilla Renda
+ATCR11,HAZ
+BARI11,Barigui Rendimento Imobiliários I
+BBIM11,BB Recebiveis Imobiliários
+BMII11,Brasilio Machado
+BPRP11,FII BRLPROP
+BRHT11B,BR Hotéis
+BVAR11,Brasil Varejo
+DAMT11B,Diamante
+DOVL11B,DOVEL
+ELDO11B,Eldorado
+ERPA11,Europa 105
+FINF11,Infra Real State
+FISC11,SC 401
+FISD11,São Domingos
+FPNG11,Pedra Negra Renda Imobiliária
+FTCE11B,Opportunity
+GESE11B,General Severiano
+HBTT11,General Severiano
+HGFF11,CSHG Imobiliário FOF
+HUSC11,Hospital Unimed Sul Capixaba
+JPPC11,JPP Capital
+KINP11,Even Permuta Kinea
+LATR11B,Lateres
+NCHB11,NCH Brasil Recebíveis Imobiliários
+NPAR11,Nestpar
+NVHO11,Novo Horizonte
+NVIF11B,Nova I
+ORPD11,Ouro Preto Desenvolvimento Imobiliário I
+OULG11B,Ourinvest Logistica
+PBLV11,Prologis Brazil Logistics Venture
+PRSN11B,Personale I
+PRTS11,Multi Properties
+RBCO11,RB Capital Office Income
+RBFF11,Rio Bravo IFIX
+RBRP11,RBR Properties
+RBRY11,RBR Private Crédito Imobiliário
+RCFA11,Grupo RCFA
+RCRI11B,RB Capital Rendimentos
+RDPD11,BB Renda de Papeis Imobiliários II
+REIT11,Socopa Fundo de Investimento Imobiliário
+SADI11,Santander Papeis Imobiliários CDI
+SAIC11B,Sia Corporate
+SFND11,São Fernando
+SHDP11B,Shopping Parque Dom Pedro
+SHOP11,Multi Shoppings
+SPAF11,SPA Fundo de Investimento Imobiliário
+STRX11,STARX FII
+TCR11,BTG Pactual Crédito Imobiliário
+TORM13,Tourmalet I
+TOUR11,Tourmalet II
+TSNC11,Transinc
+VERE11,Vereda
+VLJS11,Vector Queluz Lajes Corporativas
+VPSI11,Polo Shopping Indaiatuba
+WTSP11B,Ourinvest RE I
+YCHY11,Yaguara Capital High Yield
+VIVA3,Vivara
+CEAB3,C A Modas SA
+BMGB11,Banco BMG Unit
+BMGB4,Banco BMG ON
+SDIP11,SDI Properties
+RBCO11,Rb Cap
+IBFF11,Integral Brei Reit
+CVBI11,Vbi Cri
+HRDF11,Hedge Realty
+RSPD11,Rb Cap
+TCPF11,Treecorp
